@@ -1,2 +1,2 @@
-# Covid SQL Queries
+# Covid Data SQL Queries
  
